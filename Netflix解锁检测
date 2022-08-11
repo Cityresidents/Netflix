@@ -32,7 +32,7 @@ const AREA_TEST_FILM_ID = 80018499
 const DEFAULT_OPTIONS = {
   title: '𝗡𝗲𝘁𝗳𝗹𝗶𝘅 解锁检测',
   fullContent: '完整解锁地区 ➠ #REGION_FLAG# #REGION_NAME#',
-  fullIcon: '',
+  fullIcon: 'n.circle.fill',
   fullIconColor: '',
   fullStyle: 'good',
   onlyOriginalContent: '仅支持自制剧，地区：#REGION_FLAG# #REGION_NAME#',
