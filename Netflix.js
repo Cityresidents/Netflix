@@ -44,7 +44,7 @@ const DEFAULT_OPTIONS = {
   notAvailableIconColor: '#DC143C',
   notAvailableStyle: 'alert',
   errorContent: '检测失败，请重试',
-  errorIcon: 'arrow.counterclockwise.circle.fill',
+  errorIcon: 'arrow.clockwise.circle.fill',
   errorIconColor: '#DC143C',
   errorStyle: 'error',
 }
