@@ -30,8 +30,8 @@ const BASE_URL = 'https://www.netflix.com/title/'
 const FILM_ID = 81215567
 const AREA_TEST_FILM_ID = 80018499
 const DEFAULT_OPTIONS = {
-  title: '𝗦𝘂𝗽𝗲𝗿 𝘀𝘁𝗿𝗲𝗮𝗺𝗶𝗻𝗴 𝗡𝗲𝘁𝗳𝗹𝗶𝘅 (解锁检测)',
-  fullContent: '完整解锁 𝗡𝗲𝘁𝗳𝗹𝗶𝘅 𝗦𝘁𝗿𝗲𝗮𝗺𝗶𝗻𝗴 ➠ #REGION_FLAG# #REGION_NAME#',
+  title: '𝗦𝘂𝗽𝗲𝗿 𝘀𝘁𝗿𝗲𝗮𝗺𝗶𝗻𝗴 𝗡𝗲𝘁𝗳𝗹𝗶𝘅 ( 解锁检测 )',
+  fullContent: '完整解锁 𝗡𝗲𝘁𝗳𝗹𝗶𝘅 𝗠𝗲𝗱𝗶𝗮 ➠ #REGION_FLAG# #REGION_NAME#',
   fullIcon: 'suit.heart.fill',
   fullIconColor: '#FF69B4',
   fullStyle: 'good',
