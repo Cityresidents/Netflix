@@ -39,7 +39,7 @@ const DEFAULT_OPTIONS = {
   onlyOriginalIcon: 'bolt.heart.fill',
   onlyOriginalIconColor: '#FF69B4',
   onlyOriginalStyle: 'info',
-  notAvailableContent: '不支持 𝗡𝗲𝘁𝗳𝗹𝗶𝘅',
+  notAvailableContent: '不支持 𝗡𝗲𝘁𝗳𝗹𝗶𝘅 𝗠𝗲𝗱𝗶𝗮',
   notAvailableIcon: 'heart.slash.fill',
   notAvailableIconColor: '#FF69B4',
   notAvailableStyle: 'alert',
